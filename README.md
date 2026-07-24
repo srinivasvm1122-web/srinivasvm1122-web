@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi 👋, I'm Srinivas
 
-<!--
-**srinivasvm1122-web/srinivasvm1122-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a BCA student.
 
-Here are some ideas to get you started:
+🐍 I'm currently learning Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤖 I'm interested in AI & Machine Learning.
+
+💻 I'm improving my programming skills.
+
+🤖 Aspiring to build a career in AI/ML
+
+📚 I share my learning journey and projects on GitHub
