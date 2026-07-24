@@ -1,11 +1,7 @@
-# Hi 👋, I'm Srinivas
+# Hi 👋 I'm Srinivas VM
 
-🎓 I'm second year BCA student
-
-🐍 I'm currently learning Python
-
-🤖 I'm interested in AI & Machine 
-
-💻 I'm improving my programming skills
-
-📚 I share my learning journey and projects on GitHub
+🎓 Second year BCA student 
+💻 Currently learning Python & AI/ML
+🤖 Interested in Machine Learning & Deep Learning
+📈 Improving programming skills daily
+📂 Sharing my learning journey on GitHub
